@@ -13,3 +13,5 @@ Officialy Supported Devices:
 | Xiaomi Mi3/Mi4                   | cancro       | [XDA] (http://forum.xda-developers.com/showthread.php?t=3489315)   | [DrRamm] (https://github.com/DrRamm)
 | Xiaomi Redmi Note 3 Pro          | kenzo        | [XDA] (http://forum.xda-developers.com/showthread.php?t=3492504)   | [dadi11] (https://github.com/dadi11)
 | YU Yureka                        | tomato       |                                                                    | [RakeshBatra] (https://github.com/RakeshBatra)
+| OnePlus X                        | onyx         | [XDA] (https://forum.xda-developers.com/showthread.php?t=3496875)  | [SanjayVarun] (https://github.com/SanjayVarun)
+| Moto G (2014)                    | titan        | [XDA] (https://forum.xda-developers.com/showthread.php?t=3506466)  | [SanjayVarun] (https://github.com/SanjayVarun)
